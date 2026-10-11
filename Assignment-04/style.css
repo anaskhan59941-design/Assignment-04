@@ -1,0 +1,304 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif
+}
+/* logo site */
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+
+}
+.nav-ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+/* hero-section-site */
+.hero-section{
+    display: flex;
+    justify-content:space-between;
+    padding: 30px 20px;
+}
+.h3{
+    font-weight: 800;
+}
+.h2{
+    font-size: 50px;
+    margin-top: 10px;
+    text-transform: capitalize;
+}
+.para{
+    margin-top: 15px;
+    width: 84%;
+}
+.hero-btn{
+    margin-top: 30px;
+    color: white;
+    background-color: black;
+    border: none;
+    width: 25%;
+    height: 15%;
+}
+.hero-image{
+    object-fit: contain;
+    width: 500px;
+    height: 70%;
+}
+ /* section 02 */
+.image-container{
+    display: flex;
+    gap: 200px;
+    padding: 0 20px
+}
+.img1{
+    width: 100px;
+    height: 100px;
+   
+}
+.img2{
+    width: 100px;
+    height: 100px;
+}
+.img3{
+    width: 100px;
+    height: 100px;
+}
+.img4{
+    width: 100px;
+    height: 100px;
+}
+
+.img5{
+    width: 100px;
+    height: 100px;
+}
+.img6{
+    width: 100px;
+    height: 100px;
+}
+.pro-container{
+    display: flex;
+    justify-content: space-evenly ;
+    gap:200px;
+    padding: 80px
+}
+.img7{
+    width: 100px;
+
+}
+.img8{
+    width: 100px;
+}
+.img9{
+    width: 100px;
+}
+.text-container{
+    display: flex;
+    justify-content: center; 
+    text-align: center;
+    gap: 280px;
+}
+.para-container{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 170px;
+}
+.para1{
+width: 18%;
+}
+.para2{
+width: 18%;
+}
+.para3{
+    width: 18%;
+}
+/* SECTION 03 */
+.project{
+    padding: px;
+}
+.recent{
+    text-align:center;
+}
+.pro-pic{
+display: flex;
+justify-content: space-between;
+/* align-items: center;  */
+    padding:  35px;     
+    gap: 20px;
+
+}
+.img10{
+    width: 50%;
+    height: 50%;
+}
+.img11{
+    width: 50%;
+    height: 50%;
+}
+.img12{
+    width: 50%;   
+    height: 50;
+}
+
+.name{
+     display: flex;
+    /* justify-content: center;  */
+    /* text-align: center; */
+    padding: 
+
+}
+.name-ul{
+    padding: 0px 32px;
+    display: flex;
+    list-style: none;
+    gap: 355px;
+    font-weight: 800;
+}
+.caption{
+    padding: 10px 32px;
+    display: flex;
+    gap: 347px;
+}
+/* section 04 */
+.client{
+    padding: 30px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.parent{
+    padding: 0px 20px;
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 200px;
+
+}
+
+.dp{
+    padding: 15px;
+    background-color: rgb(201, 192, 192);
+    width: 30%;
+    }
+
+.dp-sec{
+    padding: 15px;
+     background-color: rgb(201, 192, 192);
+    width: 30%;
+}    
+.dp-third{
+    padding: 15px;
+    background-color: rgb(201, 192, 192);
+    width:30%;
+}
+.test{
+    padding: 20px;
+    width: 90%;
+
+}
+.child{
+    padding: 20px;
+}
+.pr{
+    padding: 20px 20px;
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 200px;
+}
+/* SECTION 05 */
+.sec-05{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 20px;
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.tem{
+    padding: 20px 0px;
+    width: 49%;
+}
+.logos{
+    
+}
+.input{
+    
+}
+.nam{
+    margin-top: 20%;
+    background-color: rgb(201, 192, 192);
+    /* background-color: antiquewhite; */
+    border: none;
+    outline: none;
+    display: block;
+    width: 100%;
+    height: 20%;
+}
+.email{
+    margin-top: 15px;
+border: none;
+background-color: rgb(201, 192, 192);
+    outline: none;
+    display: block;
+    height: 20%;
+}
+.sub{
+    margin-top: 15px;
+    width: 70%;
+    height: 25%;
+    color: white;
+    background-color: black;
+    border: none;
+    outline: none;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+          
+          
+
+
+
+
